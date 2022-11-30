@@ -39,7 +39,7 @@ unit KLib.SQLServer.Utils;
 interface
 
 uses
-  KLib.SQLServer.DriverPort, KLib.SQLServer.Info;
+  KLib.SQLServer.Driver, KLib.SQLServer.Info;
 
 procedure emptyTable(tableName: string; connection: TConnection);
 

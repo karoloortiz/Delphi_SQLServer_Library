@@ -34,7 +34,7 @@
   POSSIBILITY OF SUCH DAMAGE.
 }
 
-unit KLib.SQLServer.DriverPort;
+unit KLib.SQLServer.Driver;
 
 interface
 
